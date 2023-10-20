@@ -32,7 +32,7 @@ The main evaluation metric in this project is the **F2-score**, which places emp
 **For more details, you can refer to the Jupyter Notebook file.**
 
 ---
-FYI, this project is presented in Indonesian.. If you have any questions, suggestions, feedback, or any other inquiries, please feel free to contact me via email at muhamad.aljunior18@gmail.com.
+FYI, this project is presented in Indonesian. If you have any questions, suggestions, feedback, or any other inquiries, please feel free to contact me via email at muhamad.aljunior18@gmail.com.
 
 ---
 © 2023 Muhamad Al Junior
